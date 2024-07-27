@@ -1,0 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /justineprasad
+
+collections:
+  projects:
+    output: true

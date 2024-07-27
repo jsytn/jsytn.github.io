@@ -1,0 +1,10 @@
+projects:
+  - title: "GCN Node Classification Code"
+    subtitle: "Optimized a two-layer Graph Convolutional Network (GCN) model using PyTorch for node classification, achieving 81% accuracy on the Cora Dataset"
+    url: "https://github.com/jsytn/HofstraASPiRe2023"
+    selected: y
+
+  - title: " Gateway Status Image Classifier "
+    subtitle: "Achieved 3rd place in Optimum Winter 2024 A.I. Hackathon by developing an image classification system with Vertex AI for gateway status monitoring, achieving a 95.5% precision rate."
+    url:
+    selected: y

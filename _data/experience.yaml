@@ -1,0 +1,31 @@
+experiences:
+
+- place: "Optimum"
+  time: "Jan 2024 – Present"
+  title: "Software Engineer Intern"
+  subtitle: "Developed testing automation framework for Stream devices"
+  category: "work"
+
+- place: "Hofstra Advanced Summer Program in Research"
+  time: "June 2023 – August 2023"
+  title: "Undergraduate Student Researcher"
+  subtitle: "Researched Graph Neural Network on Legal Document Classification and presented results at Hofstra ASPiRe research symposium"
+  category: "work"
+
+- place: "theCoderSchool"
+  time: "Nov 2022 – April 2023"
+  title: "Computer Science Tutor"
+  subtitle: "Tutored students in Python & Scratch, focusing on project-based learning."
+  category: "work"
+
+- place: "Hofstra Law University"
+  time: "Nov 2021 – Oct 2023"
+  title: "Information Technology Support Technician"
+  subtitle: "Provided technical support, installed software, managed classroom equipment, and offered real-time troubleshooting at Hofstra Law University events"
+  category: "work"
+
+- place: "Hofstra University"
+  time: "2021 - Present"
+  title: "B.S. Student"
+  subtitle: "Computer Science & Mathematics"
+  category: "school"
