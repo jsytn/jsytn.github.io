@@ -1,8 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /jsytn.github.io
-url: https://jsytn.github.io/
+baseurl: ""
+url: "https://jsytn.github.io"
 
 collections:
   projects:
